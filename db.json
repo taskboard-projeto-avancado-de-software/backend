@@ -1,0 +1,30 @@
+{
+    "usuarios" : [
+        {
+            "id" : 1,
+            "nome" : "",
+            "email" : "",
+            "senha" : ""
+        }
+    ],
+    "tarefas" : [
+        {
+            "id" : 1,
+            "titulo" : "",
+            "descricao" : "",
+            "prioridade" : "",
+            "prazo" : "",
+            "estado" : "",
+            "idUsuario" : ""
+        }
+    ],
+    "notificacoes" : [
+        {
+            "id" : 1,
+            "mensagem" : "",
+            "idTarefa" : "",
+            "idUsuario" : "",
+            "lida" : false
+        }
+    ]
+}
