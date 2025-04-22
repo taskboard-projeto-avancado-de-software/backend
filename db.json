@@ -1,30 +1,47 @@
 {
-    "usuarios" : [
+    "usuarios": [
         {
-            "id" : 1,
-            "nome" : "",
-            "email" : "",
-            "senha" : ""
+            "id": 1,
+            "nome": "",
+            "email": "",
+            "senha": ""
         }
     ],
-    "tarefas" : [
+    "tarefas": [
+        {
+            "id": 1,
+            "titulo": "",
+            "descricao": "",
+            "prioridade": "",
+            "prazo": "",
+            "estado": "",
+            "idUsuario": ""
+        }
+    ],
+    "notificacoes": [
+        {
+            "id": 1,
+            "mensagem": "",
+            "idTarefa": "",
+            "idUsuario": "",
+            "lida": false
+        }
+    ],
+    "colunas": [
         {
             "id" : 1,
-            "titulo" : "",
-            "descricao" : "",
-            "prioridade" : "",
-            "prazo" : "",
-            "estado" : "",
+            "titulo": "A fazer",
             "idUsuario" : ""
-        }
-    ],
-    "notificacoes" : [
+        },
         {
-            "id" : 1,
-            "mensagem" : "",
-            "idTarefa" : "",
-            "idUsuario" : "",
-            "lida" : false
+            "id" : 2,
+            "titulo": "Fazendo",
+            "idUsuario" : ""
+        },
+        {
+            "id" : 3,
+            "titulo": "Feito",
+            "idUsuario" : ""
         }
     ]
 }
