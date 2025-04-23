@@ -29,19 +29,19 @@
     ],
     "colunas": [
         {
-            "id" : 1,
+            "id": 1,
             "titulo": "A fazer",
-            "idUsuario" : ""
+            "idUsuario": ""
         },
         {
-            "id" : 2,
+            "id": 2,
             "titulo": "Fazendo",
-            "idUsuario" : ""
+            "idUsuario": ""
         },
         {
-            "id" : 3,
+            "id": 3,
             "titulo": "Feito",
-            "idUsuario" : ""
+            "idUsuario": ""
         }
     ]
 }
