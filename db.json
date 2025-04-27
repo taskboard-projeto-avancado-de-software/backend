@@ -1,21 +1,10 @@
 {
     "usuarios": [
         {
-            "id": 1,
-            "nome": "",
-            "email": "",
-            "senha": ""
         }
     ],
     "tarefas": [
         {
-            "id": 1,
-            "titulo": "",
-            "descricao": "",
-            "prioridade": "",
-            "prazo": "",
-            "estado": "",
-            "idUsuario": ""
         }
     ],
     "notificacoes": [
@@ -31,17 +20,17 @@
         {
             "id": 1,
             "titulo": "A fazer",
-            "idUsuario": ""
+            "idUsuario": "default"
         },
         {
             "id": 2,
             "titulo": "Fazendo",
-            "idUsuario": ""
+            "idUsuario": "default"
         },
         {
             "id": 3,
             "titulo": "Feito",
-            "idUsuario": ""
+            "idUsuario": "default"
         }
     ]
 }
